@@ -23,7 +23,7 @@ import java.util.Objects;
 public class LongestCommonPrefix {
 
 	public String longestCommonPrefix(String[] strs) {
-		if (Objects.isNull(strs))
+		if (strs.length == 0)
 			return "";
 		/******************************************************
 		 * 取第一个和第二个的公共前缀，再用结果拿到与第三个的公共前缀
