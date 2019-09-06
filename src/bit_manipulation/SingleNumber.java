@@ -32,7 +32,7 @@ public class SingleNumber {
 	}
 
 	public static void main(String[] args) {
-		int[] input = {-2, -2, 1, -3, -3};
+		int[] input = {2, 2, 1};
 		System.out.println(new SingleNumber().singleNumber(input));
 	}
 
