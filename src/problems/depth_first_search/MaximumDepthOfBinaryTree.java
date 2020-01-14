@@ -1,4 +1,4 @@
-package depth_first_search;
+package problems.depth_first_search;
 
 /**
  *给定一个二叉树，找出其最大深度。

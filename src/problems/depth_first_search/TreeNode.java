@@ -1,4 +1,4 @@
-package depth_first_search;
+package problems.depth_first_search;
 
 
 class TreeNode {
